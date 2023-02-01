@@ -1,1 +1,1 @@
-# spotify-api-framer-motion
+# spotify-api-game-framer-motion
